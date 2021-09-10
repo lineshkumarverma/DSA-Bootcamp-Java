@@ -1,17 +1,6 @@
 # [Video Link](https://youtu.be/zL1DPZ0Ovlo)
 
-# Questions:
+# Problems:
 
-## Easy
-- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-- [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-- [Reverse String](https://leetcode.com/problems/reverse-string/)
-- [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
-- [Rotate String](https://leetcode.com/problems/rotate-string/)
-- [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+- [Click "Show problem tags" and do questions that have tags for things we have learnt so far only.](https://leetcode.com/tag/string/)
 
-## Medium
-- [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
-- [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
-
-## Hard
